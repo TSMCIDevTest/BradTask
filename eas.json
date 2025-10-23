@@ -14,9 +14,7 @@
     "production": {
       "android": {
         "image": "latest",
-        "buildType": "apk",
-        "package": "com.crazybradstudios.bradtask",
-        "versionCode": 1
+        "buildType": "apk"
       },
       "ios": {
         "image": "latest",
