@@ -13,7 +13,9 @@
     },
     "production": {
       "android": {
-        "image": "latest"
+        "image": "latest",
+        "package": "com.crazybradstudios.bradtask",
+        "versionCode": 1
       },
       "ios": {
         "image": "latest"
