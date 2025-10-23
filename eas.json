@@ -14,15 +14,15 @@
     "production": {
       "android": {
         "image": "latest",
+        "buildType": "apk",
         "package": "com.crazybradstudios.bradtask",
         "versionCode": 1
       },
       "ios": {
-        "image": "latest"
-      }
+        "image": "latest",
+        "buildType": "release"
+      },
+      "distribution": "internal"
     }
-  },
-  "submit": {
-    "production": {}
   }
 }
