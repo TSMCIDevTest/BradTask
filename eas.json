@@ -17,8 +17,7 @@
         "buildType": "apk"
       },
       "ios": {
-        "image": "latest",
-        "buildType": "release"
+        "image": "latest"
       },
       "distribution": "internal"
     }
